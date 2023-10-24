@@ -1,4 +1,4 @@
-'<p align="center">
+<p align="center">
   <a href="https://sponsor.ajay.app"><img src="public/icons/LogoSponsorBlocker256px.png" alt="Logo"></img></a>
 
   <br/>

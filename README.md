@@ -1,29 +1,29 @@
-<p align="center">
+'<p align="center">
   <a href="https://sponsor.ajay.app"><img src="public/icons/LogoSponsorBlocker256px.png" alt="Logo"></img></a>
 
   <br/>
   <sub>Logo by <a href="https://github.com/munadikieh">@munadikieh</a></sub>
 </p>
 
-<h1 align="center">SponsorBlock</h1>
+<h1 align="center">SponorBlock</h1>
 
 <p align="center">
   <b>Download:</b>
   <a href="https://chrome.google.com/webstore/detail/mnjggcdmjocbbbhaepdhchncahnbgone">Chrome/Chromium</a> |
   <a href="https://addons.mozilla.org/addon/sponsorblock/?src=external-github">Firefox</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Android">Android</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Edge">Edge</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Safari">Safari for MacOS and iOS</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/Android">Android</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/Edge">Edge</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/Safari">Safari for MacOS and iOS</a> |
   <a href="https://sponsor.ajay.app">Website</a> |
   <a href="https://sponsor.ajay.app/stats">Stats</a>
 </p>
 
 <p align="center">
   <b>3rd-Party Ports:</b>
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#mpv-media-player">MPV</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#kodi">Kodi</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#Chromecast">Chromecast</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports#ios">iOS</a>
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/3rd-Party-Ports#mpv-media-player">MPV</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/3rd-Party-Ports#kodi">Kodi</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/3rd-Party-Ports#Chromecast">Chromecast</a> |
+  <a href="https://github.com/virginviolet/SponorBlock/wiki/3rd-Party-Ports#ios">iOS</a>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 
 
-SponsorBlock is an open-source crowdsourced browser extension to skip sponsor segments in YouTube videos. Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors it knows about. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
+SponorBlock is an open-source crowdsourced browser extension to skip sponsor segments in YouTube videos. Users submit when a sponsor happens from the extension, and the extension automatically skips sponsors it knows about. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
 
 It also supports Invidious.
 
@@ -44,15 +44,15 @@ It also supports Invidious.
 
 # Important Links
 
-See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
+See the [Wiki](https://github.com/virginviolet/SponorBlock/wiki) for important links.
 
 # Server
 
 The backend server code is available here: https://github.com/ajayyy/SponsorBlockServer
 
-To make sure that this project doesn't die, I have made the database publicly downloadable at https://sponsor.ajay.app/database ([License](https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License)). If you are planning on using the database in another project, please read the [API Docs](https://wiki.sponsor.ajay.app/index.php/API_Docs) page for more information.
+To make sure that this project doesn't die, I have made the database publicly downloadable at https://sponsor.ajay.app/database ([License](https://github.com/virginviolet/SponorBlock/wiki/Database-and-API-License)). If you are planning on using the database in another project, please read the [API Docs](https://wiki.sponsor.ajay.app/index.php/API_Docs) page for more information.
 
-The dataset and API are now being used in some [ports](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports) as well as a [neural network](https://github.com/andrewzlee/NeuralBlock).
+The dataset and API are now being used in some [ports](https://github.com/virginviolet/SponorBlock/wiki/3rd-Party-Ports) as well as a [neural network](https://github.com/andrewzlee/NeuralBlock).
 
 # API
 

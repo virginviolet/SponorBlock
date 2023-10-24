@@ -1,14 +1,14 @@
-If you make any contributions to SponsorBlock after this file was created, you are agreeing that any code you have contributed will be licensed under LGPL-3.0 or later.
+If you make any contributions to SponorBlock after this file was created, you are agreeing that any code you have contributed will be licensed under LGPL-3.0 or later.
 
 # Translations
-https://crowdin.com/project/sponsorblock
+~~https://crowdin.com/project/sponsorblock~~
 
 # Building
 ## Building locally
 0. You must have [Node.js 16 or later](https://nodejs.org/) and npm installed. Works best on Linux
 1. Clone with submodules
   ```bash
-  git clone --recursive https://github.com/ajayyy/SponsorBlock
+  git clone --recursive https://github.com/virginviolet/SponorBlock
   ```
   Or if you already cloned it, pull submodules with
   ```bash

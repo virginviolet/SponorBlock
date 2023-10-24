@@ -63,7 +63,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Credit
 
-Based on [SponsorBlock](https://github.com/ajayyy/SponsorBlock).
+Based on [SponsorBlock](https://github.com/ajayyy/SponsorBlock). Changes: Now blocks sponors. SponorBlock has a different name, spelling, and logo.
 
 The awesome [Invidious API](https://docs.invidious.io/) was previously used, and the server is now using [NewLeaf](https://git.sr.ht/~cadence/NewLeaf) as a to get video info from YouTube.
 

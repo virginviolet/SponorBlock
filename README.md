@@ -36,7 +36,7 @@
 
 
 
-SponorBlock is an open-source crowdsourced browser extension to skip sposor segments in YouTube videos. Users submit when a sponor happens from the extension, and the extension automatically skips sponors it knows about. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
+SponorBlock is an open-source crowdsourced browser extension to skip sponor segments in YouTube videos. Users submit when a sponor happens from the extension, and the extension automatically skips sponors it knows about. It also supports skipping other categories, such as intros, outros and reminders to subscribe.
 
 It also supports Invidious.
 

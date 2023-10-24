@@ -1,10 +1,10 @@
 {
     "name": "__MSG_fullName__",
-    "short_name": "SponsorBlock",
+    "short_name": "SponorBlock",
     "version": "5.4.25",
     "default_locale": "en",
     "description": "__MSG_Description__",
-    "homepage_url": "https://sponsor.ajay.app",
+    "homepage_url": "https://github.com/virginviolet/SponorBlock",
     "content_scripts": [{
         "run_at": "document_start",
         "matches": [
@@ -85,7 +85,7 @@
         "*://*/*"
     ],
     "browser_action": {
-        "default_title": "SponsorBlock",
+        "default_title": "SponorBlock",
         "default_popup": "popup.html",
         "default_icon": {
             "16": "icons/IconSponsorBlocker16px.png",
